@@ -1,0 +1,1 @@
+Simple Program about recreating the game HANGMAN. When the program is ran, you are given a number of letters and you have to guess a phrase that matches the spaces. I based all of my phrases off of fruits just to make it simple. 
